@@ -20,5 +20,3 @@
 " target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
   
-  ![Snake animation](https://github.com/Denil100/Denil100/tree/3e1f6dc3581dc9dc40f407576e10742eb10f32c1)
-  
